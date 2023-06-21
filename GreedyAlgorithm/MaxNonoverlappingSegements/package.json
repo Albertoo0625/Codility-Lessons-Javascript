@@ -1,0 +1,16 @@
+{
+  "name": "maxnonoverlappingsegements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node maxnonoverlappingsegments",
+    "dev": "nodemon maxnonoverlappingsegments"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

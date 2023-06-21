@@ -1,0 +1,16 @@
+{
+  "name": "arraybitshift-rotation-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ArrayBitshiftRotation.js",
+  "scripts": {
+    "start": "node ArrayBitshiftRotation",
+    "dev": "nodemon ArrayBitshiftRotation"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

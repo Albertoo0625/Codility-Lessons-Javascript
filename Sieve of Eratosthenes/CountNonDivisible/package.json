@@ -1,0 +1,16 @@
+{
+  "name": "countnondivisible",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node countnondivisible",
+    "dev": "nodemon countnondivisible"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

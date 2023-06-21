@@ -1,0 +1,16 @@
+{
+  "name": "ladder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ladder.js",
+  "scripts": {
+    "start": "node ladder",
+    "dev": "nodemon ladder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

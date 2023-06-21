@@ -1,0 +1,16 @@
+{
+  "name": "trianglecodingtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node trianglecodingtask",
+    "dev": "nodemon trianglecodingtask"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "counttriangles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node counttriangles",
+    "dev":"nodemon counttriangles"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

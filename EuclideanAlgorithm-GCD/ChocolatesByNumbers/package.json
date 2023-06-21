@@ -1,0 +1,16 @@
+{
+  "name": "chocolatesbynumbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node chocolatesbynumbers",
+    "dev": "nodemon chocolatesbynumbers"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

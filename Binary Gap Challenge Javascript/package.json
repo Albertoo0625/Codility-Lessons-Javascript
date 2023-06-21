@@ -1,0 +1,16 @@
+{
+  "name": "binary-gap-challenge-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BinaryGap.js",
+  "scripts": {
+    "start": "node BinaryGap",
+    "dev": "nodemon BinaryGap"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
